@@ -1,7 +1,9 @@
 # Tink Signature Micro-benchmark
 
 This repository contains the code for a simple micro-benchmark of the
-signature algorithms provided by Tink.
+public key signature algorithms provided by Google's
+[Tink](https://https://github.com/google/tink) cryptographic primitives
+library.
 
 ## Benchmark Results
 
